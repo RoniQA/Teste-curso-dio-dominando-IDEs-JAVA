@@ -8,12 +8,11 @@ public class PrimeiroPrograma {
 		
 		
 		Gato gato = new Gato();
+		Livro livro = new Livro();
 		
 		System.out.println(gato);
-		
-		/*int a = 2;
-		int b = 3;
-		System.out.println("Hello World! " + (a+b));*/
+		System.out.println(livro);
+
 
 	}
 
